@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend Web development and game development
 - 🌱 I’m currently learning backend technology, C, python, SQL and building games
 - 💞️ I’m looking to collaborate on building game software with African plots and content
-- 📫 How to reach me @Olaitanlabs on twitter or Olaitan Kazeem on Facebook
+- 📫 How to reach me @Olaitanlabs on twitter
 - I would love to collaborate on any project to build amazing software and to learn on the job
 
 <!---
